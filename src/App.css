@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.categs div {
+  display: flex;
+  margin-top: 20px;
+  flex-direction: column;
+  gap: 10px;
+}
